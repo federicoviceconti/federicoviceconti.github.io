@@ -4,24 +4,28 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "33f11de2031cc165b7b49b528a0dc7b3",
-"index.html": "ab43deffae36559317111e1f7a401195",
-"/": "ab43deffae36559317111e1f7a401195",
-"main.dart.js": "22654f65e6c6cf499389a782aaa721a5",
+"index.html": "89a6ee481ce5d572fe784778f56603df",
+"/": "89a6ee481ce5d572fe784778f56603df",
+"main.dart.js": "2459e446a1cb06bdb0812df124df2eaa",
 "favicon.png": "8e45e23a042463a06a410b324bacc098",
 "icons/Icon-192.png": "f7c605b9d8351e295d4b2cef1d241374",
 "icons/Icon_512.png": "940651abd987065b3ce5f7c0c4720cc7",
 "manifest.json": "4dcb4f82435acf8390a4aabbf1c6dc76",
 "assets/AssetManifest.json": "b1de5d2ab16f47ba4861c5ab437e7e8c",
-"assets/NOTICES": "8edfb65b1bfdbfc5c2b53afd14276c15",
+"assets/NOTICES": "ec388a73b068255295c9450fca11ac0c",
 "assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
 "assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
-"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/fonts/MaterialIcons-Regular.otf": "7e7a6cccddf6d7b20012a548461d5d81",
 "assets/assets/svg/github.svg": "39a3b811d3d7e11089b3e491ae0544ba",
 "assets/assets/svg/mail.svg": "49790edcb4cf4546801ae040be429567",
 "assets/assets/svg/linkedin.svg": "449fcdb6d986e4fadc988af5c714a06a",
 "assets/assets/png/telegram.png": "51478e5faf4250d35a11c9b7f1b7466f",
-"assets/assets/png/flutter_works.png": "e1fce5b5556fca762541416914bf686f"
+"assets/assets/png/flutter_works.png": "e1fce5b5556fca762541416914bf686f",
+"canvaskit/canvaskit.js": "c2b4e5f3d7a3d82aed024e7249a78487",
+"canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
+"canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
+"canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
 };
 
 // The application shell files that are downloaded before a service worker can
